@@ -1,6 +1,5 @@
 # Hypothyroidism_Prediction
-This analysis was conducted to check the factors influencing hypothyroidism while providing a diagnosis 
-This dataset entails an analysis of the patient symptoms and predictiting their hypothyroidism status.
+This analysis was conducted to check the factors influencing hypothyroidism , an analysis of the patient symptoms using them to predict their hypothyroidism status.
 # Nairobi Hospital Hypothyroid ststus prediction
 # Description
 This research included analysis of the age,gender,history of surgery,history of thyroid associated medication,pregranncy status and hormonal levels.
