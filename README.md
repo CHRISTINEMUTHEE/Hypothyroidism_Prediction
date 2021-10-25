@@ -7,7 +7,7 @@ This research included analysis of the age,gender,history of surgery,history of 
 # User Requirements
 You need Python and a jupyter notebook.
 # Set up Installations
-clone this project from:https://github.com/CHRISTINEMUTHEE/FINANCE-DATASET.
+clone this project from:https://github.com/CHRISTINEMUTHEE/Hypothyroidism_Prediction.git.
 # Technologies used
 Python,Matploptly,Seaborn,Google collaboratory,Pandas and Numpy Libraries
 # Support and contact details
